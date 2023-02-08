@@ -15,13 +15,10 @@ const About = () => {
 						<div className="a-title-item">Cloud Engineer</div>
 						<div className="a-title-item">Web Developer</div>
 						<div className="a-title-item">Technical Writer</div>
-                        <div className="a-title-item">Photographer</div>
+						<div className="a-title-item">Photographer</div>
 					</div>
 				</div>
-				<p className="i-desc">
-					I design and develop services for customers of all sizes, specializing
-					in creating stylish, modern websites, web services and online stores.
-				</p>
+				<p className="i-desc">I love cloud technologies.</p>
 			</div>
 		</div>
 	);
