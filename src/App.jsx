@@ -1,10 +1,10 @@
 import About from "./components/about/about";
-import "./App.css";
+import Resume from "./components/resume/resume";
 
 function App() {
 	return (
-		<div className="App">
-			<About />
+		<div className="">
+			<Resume />
 		</div>
 	);
 }

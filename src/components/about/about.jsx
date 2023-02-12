@@ -18,7 +18,11 @@ const About = () => {
 						<div className="a-title-item">Photographer</div>
 					</div>
 				</div>
-				<p className="i-desc">I love cloud technologies.</p>
+				<p className="i-desc">
+					Recent graduate from National University of Ireland, Cork with a
+					master's in Business Informartics. Passionate about cloud technologies
+					and is a proficient web developer.
+				</p>
 			</div>
 		</div>
 	);
