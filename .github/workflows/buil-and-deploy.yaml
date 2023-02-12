@@ -2,8 +2,8 @@ name: Build and Deploy
 on:
   push:
     branches: [ master ]
-  jobs:
-    build-and-deploy:
+jobs:
+  build-and-deploy:
       name: Build and Deploy
       runs-on: ubuntu-latest
       env:
@@ -41,3 +41,4 @@ on:
             --distribution-id ${{ env.DIST ID }} \
             --paths "/*"
 
+zzzz
