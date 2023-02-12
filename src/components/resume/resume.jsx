@@ -25,7 +25,7 @@ const Resume = () => {
 				<dd className="clear"></dd>
 				<dt>Education</dt>
 				<dd>
-					<h2>UCC - Planet Vhoorl</h2>
+					<h2>UCC cork - Planet Vhoorl</h2>
 					<p>
 						<strong>Major:</strong> Public Relations
 						<br />
