@@ -18,17 +18,14 @@ const Resume = () => {
 				</p>
 			</div>
 			<div id="objective">
-				<p>
-					I am an outgoing and energetic (ask anybody) young professional,
-		
-				</p>
+				<p>I am an outgoing and energetic (ask anybody) young professional,</p>
 			</div>
 			<div className="clear"></div>
 			<dl>
 				<dd className="clear"></dd>
 				<dt>Education</dt>
 				<dd>
-					<h2>Withering Madness University - Planet Vhoorl</h2>
+					<h2>UCC - Planet Vhoorl</h2>
 					<p>
 						<strong>Major:</strong> Public Relations
 						<br />
