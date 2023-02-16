@@ -10,7 +10,7 @@ jobs:
     env:
       BUCKET: www.yashjoshi.xyz
       DIST: build
-      REGION: us-east-1
+      REGION: eu-west-1
       DIST_ID: E2AE2CLH15ETWM
 
     steps:
