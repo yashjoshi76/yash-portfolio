@@ -25,54 +25,82 @@ const Resume = () => {
 				<dd className="clear"></dd>
 				<dt>Education</dt>
 				<dd>
-					<h2>UCC cork - Planet Vhoorl</h2>
+					<h2>National University of Ireland, Cork - Oct. 2022</h2>
 					<p>
-						<strong>Major:</strong> Public Relations
+						<strong>MSc in</strong> Business Information Systems and Analytics
 						<br />
-						<strong>Minor:</strong> Scale Tending
+					</p>
+				</dd>
+				<dd>
+					<h2>Alliance University - July 2019</h2>
+					<p>
+						<strong>BS in</strong> Computer Science Engineering
+						<br />
 					</p>
 				</dd>
 				<dd className="clear"></dd>
 				<dt>Skills</dt>
 				<dd>
-					<h2>Office skills</h2>
 					<p>
-						Office and records management, database administration, event
-						organization, customer support, travel coordination
+						<h4>Cloud Technologies:</h4> EC2, S3, Lambda, RDS, Amplify,
+						CloudFormation, Cognito, CodePipeline Programming: Python,
+						JavaScript, React.js, C++ <br />
+						<h4>Databases:</h4> PostgreSQL, MongoDB, MySQL <br />
+						<h4>Frameworks: </h4>React.js, Spring Boot, Serverless <br />
+						<h4>Tools and Technologies:</h4> Docker, Jira, Taiga, Git, Jenkins{" "}
+						<br />
 					</p>
-					<h2>Computer skills</h2>
+
+					<h2>Projects</h2>
 					<p>
-						Microsoft productivity software (Word, Excel, etc), Adobe Creative
-						Suite, Windows
+						<h4>Databases:</h4> PostgreSQL, MongoDB, MySQL <br />
+						<h4>Frameworks: </h4>React.js, Spring Boot, Serverless <br />
 					</p>
 				</dd>
 				<dd className="clear"></dd>
 				<dt>Experience</dt>
 				<dd>
-					<h2>
-						Doomsday Cult{" "}
-						<span>Leader/Overlord - Baton Rogue, LA - 1926-2010</span>
-					</h2>
+					<h2>Staqu Technologies </h2>
+					<span>
+						Software Developer - New Delhi, IN - Oct. 2019 - Oct. 2020
+					</span>
 					<ul>
 						<li>
-							Inspired and won highest peasant death competition among servants
+							<li>
+								Designed, developed, and tested production-ready web
+								applications at the AI & Analytics startup.
+							</li>
 						</li>
-						<li>Helped coordinate managers to grow cult following</li>
-						<li>Provided untimely deaths to all who opposed</li>
+						<li>
+							Prototyped the micro-frontend architecture of flagship video
+							analytics software using React.js, Node.js, Gilab CI/CD, and AWS.
+						</li>
+						<li>
+							Delivered 5 commercial web applications developed using MERN
+							(MongoDB, Express, React, Node).
+						</li>
 					</ul>
-					<h2>
-						The Watering Hole{" "}
-						<span>Bartender/Server - Milwaukee, WI - 2009</span>
-					</h2>
+					<h2>Indshine Drone Enterprise </h2>
+					<span>Software Developer, April 2019 - Aug. 2019</span>
 					<ul>
-						<li>Worked on grass-roots promotional campaigns</li>
-						<li>Reduced theft and property damage percentages</li>
-						<li>Janitorial work, Laundry</li>
+						<li>
+							Developed project-sharing workflow features using Node.js, and
+							React.js.
+						</li>
+						<li>Designed UI/UX workflows using Figma.</li>
+						<li>
+							Learned the fundamentals of cloud services such as Amazon Web
+							Services (AWS), Heroku Cloud, and Google Firebase.
+						</li>
 					</ul>
 				</dd>
 				<dd className="clear"></dd>
 				<dt>Hobbies</dt>
-				<dd>World Domination, Deep Sea Diving, Murder Most Foul</dd>
+				<dd>
+					<li>Rubik's Cubes</li>
+					<li>Videography</li>
+					<li>Swimming</li>
+				</dd>
 				<dd className="clear"></dd>
 				<dt>References</dt>
 				<dd>Available on request</dd>
