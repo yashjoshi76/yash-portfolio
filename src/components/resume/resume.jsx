@@ -50,12 +50,12 @@ const Resume = () => {
 						<h4>Tools and Technologies:</h4> Docker, Jira, Taiga, Git, Jenkins{" "}
 						<br />
 					</p>
-
+{/* 
 					<h2>Projects</h2>
 					<p>
 						<h4>Databases:</h4> PostgreSQL, MongoDB, MySQL <br />
 						<h4>Frameworks: </h4>React.js, Spring Boot, Serverless <br />
-					</p>
+					</p> */}
 				</dd>
 				<dd className="clear"></dd>
 				<dt>Experience</dt>
